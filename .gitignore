@@ -1,0 +1,12 @@
+*.bin
+*.npy
+*.pkl
+*.pt
+*.pth
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+Thumbs.db
+.env
+venv/
